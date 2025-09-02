@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats  
 
-![Nivash's GitHub stats](https://github-readme-stats.vercel.app/api?username=nivashkumar&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nivashkumar&layout=compact&theme=tokyonight)  
+![Nivash's GitHub stats](https://github-readme-stats.vercel.app/api?username=nivash-kumar&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nivash-kumar&layout=compact&theme=tokyonight)  
 
 ---
 
