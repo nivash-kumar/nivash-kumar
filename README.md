@@ -27,14 +27,14 @@ Here are some ideas to get you started:
 ## 🛠️ Skills & Tools  
 
 - **Languages:** C, JavaScript, HTML, CSS  
-- **Frontend Frameworks:** Bootstrap, Tailwind CSS, React.js  
+- **Frontend Frameworks:** Tailwind CSS, React.js  
 - **Backend & Databases:** Node.js, Express.js, MongoDB  
-- **Design Tools:** Figma, Canva  
-- **Other Interests:** Data Structures, Algorithms, AutoCAD, Vector Analysis  
+- **Design Tools:** Figma,
+<!-- - **Other Interests:** Data Structures, Algorithms, AutoCAD, Vector Analysis  -->
 
 ---
 
-## 📂 Featured Projects  
+<!-- ## 📂 Featured Projects  
 
 🔹 [Portfolio Website](#) – My personal portfolio built with HTML, Tailwind, and JavaScript.  
 🔹 [Course Seller Website](#) – A responsive landing page design for SkillUp.  
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 *(I’ll keep updating this space as I add more projects!)*  
 
----
+---   -->
 
 ## 📊 GitHub Stats  
 
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 - 📧 Email: **tfnnivash@gmail.com**  
 - 💼 LinkedIn: [www.linkedin.com/in/nivash-kumar](#)  
-- 🌍 Portfolio: [nivashkumar.dev](#)  
+<!-- - 🌍 Portfolio: [nivashkumar.dev](#) --> 
 
 ---
 
