@@ -53,8 +53,8 @@ Here are some ideas to get you started:
 
 ## 🌐 Connect with Me  
 
-- 📧 Email: **tfnnivash@gmail.com**  
-- 💼 LinkedIn: [www.linkedin.com/in/nivash-kumar](#)  
+- 📧 Email: **nivash.code@gmail.com**  
+- 💼 LinkedIn: [[www.linkedin.com/in/nivash-kumar](https://www.linkedin.com/in/nivash-kumar/)](#)  
 <!-- - 🌍 Portfolio: [nivashkumar.dev](#) --> 
 
 ---
